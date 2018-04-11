@@ -1,0 +1,8 @@
+Residential 1 200000 1 389 S State St
+Residcential 0 250000 1 142 CS Blvd
+Commecial 0 1234567 1 0.20 350 Sea Towers
+Residetial 1 533000 0 572 Random Road
+Commerical 23343.2 Wrong Way
+Residential 1 1 1 5000000 0 129 Avatar Lane
+Residential 0 7334211 0 85 Sparky-Sparky Boom Village
+Residential 0 Banana-Onion Road

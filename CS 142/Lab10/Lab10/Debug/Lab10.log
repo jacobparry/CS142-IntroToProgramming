@@ -1,0 +1,13 @@
+﻿  Residential.cpp
+  Property.cpp
+  Lab10.cpp
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(23): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(146): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(148): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(165): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\cs 142\lab10\lab10\lab10.cpp(180): warning C4018: '<' : signed/unsigned mismatch
+  Commercial.cpp
+  Generating Code...
+  Lab10.vcxproj -> E:\Microsoft Visual Studio 2013\Projects\CS 142\Lab10\Debug\Lab10.exe

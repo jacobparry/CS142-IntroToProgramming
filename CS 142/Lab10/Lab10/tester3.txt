@@ -1,0 +1,10 @@
+Comerical 23343.2 Wrong Way
+Rezidential 1 5000000 0 129 Avatar Lane
+Residential 0 7334211 0 85 Sparky-Sparky Boom Village
+Residential 0 Banana-Onion Road
+Commercial 2 598776 1 0.23 977 Rough Buddy Blvd
+Commercial 0 2995342 24 Secret Tunnel Turnpike
+Residential 2 955322 1 557 MoMo Run
+Commercial 24668832 0.2 23 Metal Bend
+Commercial 1 77299351 0 0.55 12 Spirit Way
+Residential 1 233342 245 Flameo Circle

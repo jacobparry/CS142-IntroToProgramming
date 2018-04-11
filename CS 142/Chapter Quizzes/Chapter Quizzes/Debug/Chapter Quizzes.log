@@ -1,0 +1,3 @@
+﻿  Chapter7.cpp
+Chapter7.obj : error LNK2005: _main already defined in Chapter Quizzes.obj
+E:\Microsoft Visual Studio 2013\Projects\Chapter Quizzes\Debug\Chapter Quizzes.exe : fatal error LNK1169: one or more multiply defined symbols found

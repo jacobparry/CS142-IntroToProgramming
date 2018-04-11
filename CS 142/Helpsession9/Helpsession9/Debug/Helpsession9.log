@@ -1,0 +1,8 @@
+﻿  Pokemon.cpp
+  Main.cpp
+  student_main.cpp
+e:\microsoft visual studio 2013\projects\helpsession8\helpsession8\student_main.cpp(13): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+student_main.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Pokemon::getName(void)" (?getName@Pokemon@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "int __cdecl find(class std::vector<class Pokemon *,class std::allocator<class Pokemon *> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?find@@YAHV?$vector@PAVPokemon@@V?$allocator@PAVPokemon@@@std@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z)
+student_main.obj : error LNK2019: unresolved external symbol "public: void __thiscall Pokemon::raiseAttack(int)" (?raiseAttack@Pokemon@@QAEXH@Z) referenced in function "void __cdecl raiseAttack(class std::vector<class Pokemon *,class std::allocator<class Pokemon *> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?raiseAttack@@YAXV?$vector@PAVPokemon@@V?$allocator@PAVPokemon@@@std@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@H@Z)
+E:\Microsoft Visual Studio 2013\Projects\Helpsession9\Debug\Helpsession9.exe : fatal error LNK1120: 2 unresolved externals

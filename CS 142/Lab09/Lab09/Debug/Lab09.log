@@ -1,0 +1,6 @@
+﻿  Lab09.cpp
+e:\microsoft visual studio 2013\projects\lab09\lab09\lab09.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\lab09\lab09\lab09.cpp(95): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\lab09\lab09\lab09.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\lab09\lab09\lab09.cpp(305): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab09.vcxproj -> E:\Microsoft Visual Studio 2013\Projects\Lab09\Debug\Lab09.exe

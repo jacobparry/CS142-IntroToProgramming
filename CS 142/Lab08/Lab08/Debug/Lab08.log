@@ -1,0 +1,5 @@
+﻿  Lab08.cpp
+e:\microsoft visual studio 2013\projects\lab08\lab08\lab08.cpp(54): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\lab08\lab08\lab08.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+e:\microsoft visual studio 2013\projects\lab08\lab08\lab08.cpp(209): warning C4018: '<' : signed/unsigned mismatch
+  Lab08.vcxproj -> E:\Microsoft Visual Studio 2013\Projects\Lab08\Debug\Lab08.exe

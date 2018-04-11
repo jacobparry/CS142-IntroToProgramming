@@ -1,0 +1,4 @@
+﻿  Lab03.cpp
+c:\users\jacobparryvm\documents\visual studio 2013\projects\lab03\lab03\lab03.cpp(179): warning C4244: 'initializing' : conversion from 'const double' to 'const int', possible loss of data
+c:\users\jacobparryvm\documents\visual studio 2013\projects\lab03\lab03\lab03.cpp(180): warning C4244: 'initializing' : conversion from 'const double' to 'const int', possible loss of data
+  Lab03.vcxproj -> C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab03\Debug\Lab03.exe

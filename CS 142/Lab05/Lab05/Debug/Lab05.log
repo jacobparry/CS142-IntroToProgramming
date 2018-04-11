@@ -1,0 +1,3 @@
+﻿  Lab05.cpp
+e:\microsoft visual studio 2013\projects\lab05\lab05\lab05.cpp(208): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab05.vcxproj -> E:\Microsoft Visual Studio 2013\Projects\Lab05\Debug\Lab05.exe

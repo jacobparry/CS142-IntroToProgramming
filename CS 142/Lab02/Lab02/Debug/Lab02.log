@@ -1,0 +1,14 @@
+﻿Build started 1/15/2015 1:04:48 PM.
+Project "C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab02\Lab02\Lab02.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lab02.cpp
+  Lab02.cpp
+c:\users\jacobparryvm\documents\visual studio 2013\projects\lab02\lab02\lab02.cpp(81): warning C4244: 'initializing' : conversion from 'const double' to 'const int', possible loss of data
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab02\Debug\Lab02.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab02\Debug\Lab02.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab02\Debug\Lab02.lib" /MACHINE:X86 Debug\Lab02.obj
+  Lab02.vcxproj -> C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab02\Debug\Lab02.exe
+Done Building Project "C:\Users\JacobParryVM\Documents\Visual Studio 2013\Projects\Lab02\Lab02\Lab02.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.56
